@@ -2,4 +2,4 @@
 - I’m a civil engineer and i'm currently learning SQL and Python for Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: eng.alissonpdp@gmail.com
-- ⚡ Fun fact: My favorites show are The Office and One Tree Hill
+- ⚡ Fun fact: My favorite shows are The Office and One Tree Hill
